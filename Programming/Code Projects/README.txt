@@ -1,1 +1,0 @@
-This folder is designated for active coding projects only!
