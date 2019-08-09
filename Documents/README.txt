@@ -3,5 +3,5 @@ This folder is designated for documents that do not fit in the engineering noteb
 Examples could be:
 - build guides
 - programming guides
-- team manaement documents
+- team management documents
 - etc.
